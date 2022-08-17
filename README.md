@@ -1,2 +1,2 @@
-# javatuts
+# Java Tuts
 Java Tuts
